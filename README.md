@@ -23,12 +23,6 @@
 > > **“我不追随技术，我要创造技术！”** 💥  
 > > （对待技术，不是跟，而是走！🚀）
 
-<div align="center">
-  <img src="https://octodex.github.com/images/spiderman.png" width="150" alt="Spider-007" style="border-radius: 50%; border: 3px solid #ff6ec7;" />
-  <br/>
-  <sub><strong>🕷️ Spider-007 | 二次元逆向工程师 | 技术の狩人</strong></sub>
-</div>
-
 ---
 
 ## 🧪 技能雷达 | Skills & Tools
@@ -71,7 +65,5 @@
 🎮 **座右铭**：**“代码是我的武器，逆向是我的战场！”**
 
 <div align="center">
-  <sub>🕷️ **Spider-007 | 二次元逆向工程师 | 永远在破解的路上** ✨</sub>
-  <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhxZzVlY2R6dGJ5bGZ5cGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dWV5dGJ6dW极简二次元 GitHub 个人主页模板（带梗带玩梗）"}}]</sub>
+  <sub><strong>🕷️ Spider-007 | 二次元逆向工程师 | 技术の狩人</strong></sub>
 </div>
